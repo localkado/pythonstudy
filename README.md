@@ -1,5 +1,5 @@
 # Python学習
-## 環境構築
+## 環境
 * macOS mojave
 * Python version 3.7.1
 ## 参考サイト
