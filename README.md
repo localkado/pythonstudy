@@ -3,7 +3,7 @@
 * macOS mojave
 * Python version 3.7.1
 ## 参考サイト
-### Python をインストール → 仮想環境
+### Python をインストール → 仮想環境構築
 * https://basicincome30.com/python-install-mac
 * エラー解決参考サイト
     * https://qiita.com/kasama123/items/ab9eea7a9c42e3941a14
