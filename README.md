@@ -43,3 +43,8 @@ $ python -m http.server 8000
 * WEBサーバでHTMLを表示する
     * pythonstudy ディレクトリにindex.htmlを配置し、以下にアクセスできwebページが表示されること
     * http://localhost:8000/pythonstudy/index.html
+
+### PythonサーバでPythonプログラムを動作
+* http://localhost:8000/cgi-bin/httptest.py?foo=aaa
+
+
